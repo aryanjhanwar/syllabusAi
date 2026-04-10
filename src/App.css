@@ -1,0 +1,7 @@
+/* App-level resets — remove Vite defaults */
+#root {
+  margin: 0;
+  padding: 0;
+  max-width: none;
+  text-align: left;
+}
